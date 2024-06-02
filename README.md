@@ -1,2 +1,2 @@
 # API
-This project shows how to fetch data from api using react.js
+This project shows how to fetch data from api in react.js
